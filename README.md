@@ -40,7 +40,7 @@ Open a browser window/tab and navigate to:<br/>
 <br/>
 
 <b>N/w Configuration Tab<b/>
-![topo](https://cloud.githubusercontent.com/assets/8746855/14858136/800262a6-0cbc-11e6-8022-1febf30ba211.png)
+![topo](https://cloud.githubusercontent.com/assets/8746855/14858644/7558e238-0cbe-11e6-93a4-e111dda4e64c.png)
 <br/>
 
 <b>Port Stat Tab<b/>
