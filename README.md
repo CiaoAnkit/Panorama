@@ -33,29 +33,29 @@ Open a browser window/tab and navigate to:<br/>
 <h3>Screenshots</h3>
 
 <b>Loading<b/>
-![loading](https://cloud.githubusercontent.com/assets/8746855/14858125/77c09b44-0cbc-11e6-9f77-3f83bd81c7c5.png)
+![loading](https://cloud.githubusercontent.com/assets/8746855/20600416/e310c01c-b253-11e6-9940-d84b88f0b126.png)
 <br/>
 
 <b>Home Tab<b/>
-![home](https://cloud.githubusercontent.com/assets/8746855/14858129/7b7d7a72-0cbc-11e6-94f2-237b6145315a.png)
+![home](https://cloud.githubusercontent.com/assets/8746855/20600419/e35a0948-b253-11e6-996f-c8104ed3ac0b.png)
 <br/>
 
 <b>N/w Configuration Tab<b/>
-![topo](https://cloud.githubusercontent.com/assets/8746855/14858644/7558e238-0cbe-11e6-93a4-e111dda4e64c.png)
+![topo](https://cloud.githubusercontent.com/assets/8746855/20600418/e33ee672-b253-11e6-9822-75a11717534c.png)
 <br/>
 
 <b>Port Stat Tab<b/>
-![port](https://cloud.githubusercontent.com/assets/8746855/14858142/83137336-0cbc-11e6-8416-abc1976ab852.png)
+![port](https://cloud.githubusercontent.com/assets/8746855/20600417/e326bdf4-b253-11e6-9842-e8706870a962.png)
 <br/>
 
 <b>Aggregate Stat Tab<b/>
-![agg](https://cloud.githubusercontent.com/assets/8746855/14858153/8b9390d6-0cbc-11e6-9fc4-44890661a2f9.png)
+![agg](https://cloud.githubusercontent.com/assets/8746855/20600420/e35a2946-b253-11e6-8561-2ce68485821d.png)
 <br/>
 
 <b>Flow Stat Tab<b/>
-![flow](https://cloud.githubusercontent.com/assets/8746855/14858155/8d30a00a-0cbc-11e6-8c3c-d652b18d1819.png)
+![flow](https://cloud.githubusercontent.com/assets/8746855/20600422/e35aab00-b253-11e6-88af-828d31e9faad.png)
 <br/>
 
-<b>Link Throughput Tab<b/>
-![uti](https://cloud.githubusercontent.com/assets/8746855/14858162/94ea0af2-0cbc-11e6-88e3-d0ca232d22ed.png)
+<b>Data Transfer Rate Tab<b/>
+![uti](https://cloud.githubusercontent.com/assets/8746855/20600569/96f32df4-b254-11e6-9309-2e5cfc87c0ed.png)
 
