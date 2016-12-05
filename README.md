@@ -1,6 +1,6 @@
 <h1> Panorama </h1>
 Real-time bird's eye view of an OpenFlow Network [SDN-POX]. <br>
-[Code coming soon...]
+[Paper submitted, code coming soon...]
 <h3>Usage Manual:<br/></h3>
 * Copy the project directory under <b>pox [~/pox/ext/]</b></br>
 * You might need to set path to <b>pox.py [pox directory (~/pox/)]</b> in your PATH variable, you may do it through terminal as:<br/>
