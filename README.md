@@ -37,7 +37,7 @@ Open a browser window/tab and navigate to:<br/>
 <br/>
 
 <b>Home Tab<b/>
-![home](https://cloud.githubusercontent.com/assets/8746855/23189220/3a800c34-f892-11e6-9723-6ba063980ffb.png)
+![home](https://cloud.githubusercontent.com/assets/8746855/23189306/a311eeac-f892-11e6-9b1c-39c966b81d12.png)
 <br/>
 
 <b>N/w Configuration Tab<b/>
