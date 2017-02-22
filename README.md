@@ -26,7 +26,7 @@ Open a browser window/tab and navigate to:<br/>
     <b>http://localhost:8080/</b>
 
 <h4> How to start [Automatic]<br/></h4>
-* [If you are tired & drowsy !!!] Run the bash script:<br/>
+* Run the bash script:<br/>
    <b>$ cd [project working directory i.e. ~/pox/ext/panorama]<br/>
     $ bash launch.sh</b>
 
