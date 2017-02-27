@@ -5,9 +5,9 @@
 Panorama is a lightweight, easy to deploy POX based GUI for obtaining real-time network information in SDN environment. Currently, Panorama is capable of presenting network topology information, per-flow and per-port traffic statistics, aggregate statistics, and data transfer rate for each network link. Please don't forget to cite our paper.<br/>
 
 <h3>People</h3>
-1. <a href="http://www.math.unipd.it/~gangwal/">Ankit Gangwal</a><br/>
-2. <a href="http://www.math.unipd.it/~conti/">Prof. Mauro Conti</a><br/>
-3. <a href="http://www.mnit.ac.in/faculty/profile.php?fid=53">Prof. Manoj Singh Gaur</a>
+1. <a href="http://www.math.unipd.it/~gangwal/">Ankit Gangwal</a>, University of Padua, Italy<br/>
+2. <a href="http://www.math.unipd.it/~conti/">Prof. Mauro Conti</a>, University of Padua, Italy<br/>
+3. <a href="http://www.mnit.ac.in/faculty/profile.php?fid=53">Prof. Manoj Singh Gaur</a>, Malaviya National Institute of Technology, India
 
 <h3>News</h3>
 Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Network" has been accepted at <a href="http://icnsc2017.dimes.unical.it/">IEEE ICNSC 2017.</a>
