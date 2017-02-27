@@ -18,7 +18,7 @@ Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Netw
      <b>$ PATH=$PATH:~/pox/<br/>
      $ export PATH</b>
  
- <h4> How to start [Manual]</h4>
+  * <h4> How to start [Manual]</h4>
  * Open a new terminal and run a controller module:<br/>
      <b>$ cd pox<br/>
      $ pox.py forwarding.l2_learning</b>
@@ -36,7 +36,7 @@ Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Netw
  Open a browser window/tab and navigate to:<br/>
      <b>http://localhost:8080/</b>
  
- <h4> How to start [Automatic]<br/></h4>
+  * <h4> How to start [Automatic]<br/></h4>
  * [If you are tired & drowsy !!!] Run the bash script:<br/>
     <b>$ cd [project working directory i.e. ~/pox/ext/panorama]<br/>
      $ bash launch.sh</b>
