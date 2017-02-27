@@ -1,4 +1,5 @@
-# Panorama
+# Panorama: Real-time Bird's Eye View of an OpenFlow Network
+
 
 <h3>Introduction</h3>
 Panorama is a lightweight, easy to deploy POX based GUI for obtaining real-time network information in SDN environment. Currently, Panorama is capable of presenting network topology information, per-flow and per-port traffic statistics, aggregate statistics, and data transfer rate for each network link. Please don't forget to cite our paper.<br/>
