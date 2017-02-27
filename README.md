@@ -41,7 +41,7 @@ Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Netw
     <b>$ cd [project working directory i.e. ~/pox/ext/panorama]<br/>
      $ bash launch.sh</b>
  
- <h3>Screenshots</h3>
+<h3>Screenshots</h3>
  
  <b>Loading<b/>
  ![loading](https://cloud.githubusercontent.com/assets/8746855/20607359/d798e8e4-b277-11e6-9080-072e60460234.png)
