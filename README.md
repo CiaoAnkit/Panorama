@@ -37,7 +37,7 @@ Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Netw
      <b>http://localhost:8080/</b>
  
   * <h4> How to start [Automatic]<br/></h4>
- * [If you are tired & drowsy !!!] Run the bash script:<br/>
+ * Run the bash script:<br/>
     <b>$ cd [project working directory i.e. ~/pox/ext/panorama]<br/>
      $ bash launch.sh</b>
  
