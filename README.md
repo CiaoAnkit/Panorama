@@ -12,7 +12,7 @@ Panorama is a lightweight, easy to deploy POX based GUI for obtaining real-time 
 <h3>News</h3>
 Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Network" has been accepted at <a href="http://icnsc2017.dimes.unical.it/">IEEE ICNSC 2017.</a>
 
-  <h3>Usage Manual:<br/></h3>
+  <h3>Usage Manual<br/></h3>
   * Copy the project directory under <b>pox [~/pox/ext/]</b></br>
   * You might need to set path to <b>pox.py [pox directory (~/pox/)]</b> in your PATH variable, you may do it through terminal as:<br/>
      <b>$ PATH=$PATH:~/pox/<br/>
