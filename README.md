@@ -4,7 +4,7 @@
 <h3>Introduction</h3>
 Panorama is a lightweight, easy to deploy POX based GUI for obtaining real-time network information in SDN environment. Currently, Panorama is capable of presenting network topology information, per-flow and per-port traffic statistics, aggregate statistics, and data transfer rate for each network link. <br/>
 
-<h3>Please don't forget to cite our paper.</h3><br>
+<h3>Please don't forget to cite our paper.</h3>
 Ankit Gangwal, Megha Gupta, Manoj Singh Gaur, Vijay Laxmi, Mauro Conti. <br>
 ELBA: Efficient Layer Based Routing Algorithm in SDN. <br>
 In Proceedings of the 25th IEEE International Conference on Computer Communication and Networks <br>
