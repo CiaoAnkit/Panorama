@@ -55,7 +55,7 @@ Feb 01, 2017: Our paper "PANORAMA: Real-time Bird's Eye View of an OpenFlow Netw
  <br/>
  
  <b>Home Tab<b/>
- ![home](https://cloud.githubusercontent.com/assets/8746855/20607360/d798f898-b277-11e6-8d6a-65d82b9312d5.png)
+ ![home](https://user-images.githubusercontent.com/8746855/35110292-bc3594ac-fc78-11e7-87bd-984b885d9ad7.png)
  <br/>
  
  <b>N/w Configuration Tab<b/>
