@@ -5,11 +5,12 @@
 Panorama is a lightweight, easy to deploy POX based GUI for obtaining real-time network information in SDN environment. Currently, Panorama is capable of presenting network topology information, per-flow and per-port traffic statistics, aggregate statistics, and data transfer rate for each network link. <br/>
 
 <h3>Please don't forget to cite our paper.</h3>
-Ankit Gangwal, Megha Gupta, Manoj Singh Gaur, Vijay Laxmi, Mauro Conti. <br>
-ELBA: Efficient Layer Based Routing Algorithm in SDN. <br>
-In Proceedings of the 25th IEEE International Conference on Computer Communication and Networks <br>
-(IEEE ICCCN 2016), pages 1-7, Waikoloa, Hawaii, USA, August 1-4, 2016. <br>
-DOI: 10.1109/ICCCN.2016.7568515, ISBN: 978-1-5090-2279-3.<br>
+
+Ankit Gangwal, Mauro Conti, Manoj Singh Gaur. <br>
+PANORAMA: Real-time Bird's Eye View of an OpenFlow Network. <br>
+In Proceedings of the 14th IEEE International Conference on Networking, Sensing and Control <br>
+(IEEE ICNSC 2017), pages 204-209, Falerna, Calabria, Italy, May 16-18, 2017. <br>
+DOI: 10.1109/ICNSC.2017.8000092, ISBN: 978-1-5090-4429-0. <br>
 
 <h3>People</h3>
 1. <a href="http://www.math.unipd.it/~gangwal/">Ankit Gangwal</a>, University of Padua, Italy<br/>
